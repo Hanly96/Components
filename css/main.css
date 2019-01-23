@@ -1,0 +1,14 @@
+.fade-enter-active, .fade-leave-active {
+    transition-duration: 0.5s;
+    transition-property: oapcity;
+    transition-timing-function: ease;
+}
+
+.fade-enter, .fade-leave-active {
+    opacity: 0;
+}
+
+.link {
+    color:yellow;
+    text-decoration: none;
+}
