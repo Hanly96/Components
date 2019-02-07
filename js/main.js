@@ -62,6 +62,6 @@
 
         // this always needs to be a function in a component
     }
-    router:router
+    router: router
 })
 })();
