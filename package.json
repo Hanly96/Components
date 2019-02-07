@@ -1,0 +1,22 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "roku flashback vue components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanly96/Components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanly96/Components/issues"
+  },
+  "homepage": "https://github.com/Hanly96/Components#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
